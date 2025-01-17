@@ -213,9 +213,9 @@ function Head() {
               <div className="flex items-center">
                 {/* >>>>>>>>>> Swiggy Main Logo in Navbar*/}
                 <Link to={"/"}>
-                  <div className="w-24">
+                  <div className="w-14 h-14">
                     <img
-                      src="https://1000logos.net/wp-content/uploads/2021/05/Swiggy-emblem.png"
+                      src="./public/spiceon.png"
                       alt=""
                     />
                   </div>

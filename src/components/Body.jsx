@@ -100,7 +100,7 @@ const Body = () => {
 
   return (
     <>
-      <div className="w-full">
+      <div className="w-full ">
         {
           TOpRest.length ? (<div className="w-full sm:w-[90%] lg:w-[80%] px-7  mx-auto mt-3 overflow-hidden">
             {
