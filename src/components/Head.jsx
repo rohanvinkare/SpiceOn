@@ -215,7 +215,7 @@ function Head() {
                 <Link to={"/"}>
                   <div className="w-14 h-14">
                     <img
-                      src="./public/spiceon.png"
+                      src="./public\\\/spiceon.png"
                       alt=""
                     />
                   </div>
