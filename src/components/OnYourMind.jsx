@@ -28,11 +28,11 @@ const OnYourMind = ({ data }) => {
 
         <div className="flex gap-3 p-1">
           <div onClick={handlePrev} className="cursor-pointer">
-            <i className="fi text-2xl fi-ss-arrow-circle-left hover:text-orange-600"></i>
+            <i className="fi text-2xl fi-ss-arrow-circle-left hover:text-orange-500 transition duration-300 active:scale-90 active:text-orange-800"></i>
           </div>
 
           <div onClick={handleNext} className="cursor-pointer">
-            <i className="fi text-2xl fi-ss-arrow-circle-right hover:text-orange-600"></i>
+            <i className="fi text-2xl fi-ss-arrow-circle-right hover:text-orange-500 transition duration-300 active:scale-90 active:text-orange-800"></i>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@ const OnYourMind = ({ data }) => {
           />
         ))}
       </div>
-      <hr className="border"></hr>
+      <hr className="border my-4"></hr>
     </>
   );
 };

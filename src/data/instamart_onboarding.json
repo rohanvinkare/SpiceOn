@@ -1,0 +1,137 @@
+{
+    "statusCode": 0,
+    "data": {
+    "issues": {
+    "meta": {
+    "total": 8,
+    "type": "instamart_onboarding"
+    },
+    "data": [
+    {
+    "id": "101042",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "I want to partner with Instamart",
+    "description": "Partner with Instamart (Link: https://www.swiggy.com/instamart-partner)",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": "Partner with Instamart",
+    "hyperLink": "https://www.swiggy.com/instamart-partner",
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101043",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "How many cities does Instamart operate in?",
+    "description": "Instamart proudly serves customers in 30 vibrant cities and is consistently expanding its reach to bring convenience and quality to even more locations. We are dedicated to continuous growth, ensuring that more communities can benefit from our top-notch services.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101044",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "What is the time to onboard?",
+    "description": "The onboarding duration is tailored to each product and brand, contingent upon their adherence to our comprehensive onboarding guidelines. We meticulously assess each application to ensure a smooth and efficient integration into the Instamart platform, promising only the finest selections for our esteemed customers.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101045",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "What flavour/grammage moves the best?",
+    "description": "The popularity of specific flavours and gram sizes is subject to variation across different categories.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101046",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "What are the expected volumes in the first 30 days?",
+    "description": "The projected sales volumes in the initial 30 days are highly dependent on the brand's reputation and market strategy. We provide personalized support to help each brand maximize its potential, ensuring a successful launch and sustained growth on our platform.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101047",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "Do I get sales data?",
+    "description": "Yes, we furnish detailed day-level sales data, empowering brands with the insights needed to make informed, strategic decisions. This data-driven approach enables our partners to optimize their offerings and enhance their performance continuously.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101048",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "How do ads work?",
+    "description": "Our dedicated advertising portal offers a robust platform for running targeted search ads. Brands can leverage this tool to increase visibility, drive traffic, and boost sales, all while benefiting from our comprehensive support and expertise in digital marketing.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    },
+    {
+    "id": "101049",
+    "conversationId": null,
+    "type": null,
+    "renderType": null,
+    "title": "What are the opportunities for expansion into new cities/SKUs?",
+    "description": "Expansion into new cities or the introduction of additional SKUs is evaluated based on the performance of existing products. Our team conducts thorough assessments to determine the viability and potential success of such expansions, ensuring that each decision aligns with our strategic growth objectives and market demand.",
+    "isLeaf": true,
+    "isResolutionNode": true,
+    "isBackupNode": false,
+    "hyperLinkText": null,
+    "hyperLink": null,
+    "options": [],
+    "metadata": {}
+    }
+    ]
+    }
+    },
+    "tid": "9a3468fd-6c73-459e-a64e-b9f50d95b415",
+    "sid": "hcnec6b2-1729-4a69-a3e5-4e1e982f40fd",
+    "deviceId": "701ae762-0367-abab-9746-7c20e97a1c92",
+    "csrfToken": "i7l34Sq5jjUb-70sCnbSNKXPn_OwFmTqQPs_tAUg"
+    }

@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 
 /* eslint-disable react/prop-types */
 const RestaurentCard = (info) => {
-  console.log(info);
-  console.log(info?.link.split("/")[5]);
+  // console.log(info);
+  // console.log(info?.link.split("/")[5]);
 
   return (
     <Link to={`/restaurent-menu/${info.link.split("/").at(-1)}`}>
@@ -16,9 +16,12 @@ const RestaurentCard = (info) => {
         <div className="rounded-2xl bg-gradient-to-t from-black from-1% via-transparent to-transparent w-full h-full absolute top-0"></div>
 
         <p className="absolute bottom-0 text-white text-2xl ml-2 mb-2 font-bold">
-          {info?.aggregatedDiscountInfoV3?.header +
-            " " +
-            info?.aggregatedDiscountInfoV3?.subHeader}
+
+          {info?.aggregatedDiscountInfoV3 &&
+            (info?.aggregatedDiscountInfoV3?.header +
+              " " +
+              info?.aggregatedDiscountInfoV3?.subHeader)
+          }
         </p>
       </div>
 
